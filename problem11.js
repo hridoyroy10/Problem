@@ -8,3 +8,17 @@ let num3 = 60;
 
 const totalMarks = num1 * num2 * num3;
 console.log(totalMarks);
+
+function gunFol(num1, num2, num3){
+    const total = num1 + num2 + num3;
+    const avast = total * 3;
+    return avast;
+}
+
+    const  number1 = 10;
+    const number2 = 20;
+    const number3 = 30;
+
+    
+    var result = gunFol(num1, num2, num3);
+    console.log(result);
