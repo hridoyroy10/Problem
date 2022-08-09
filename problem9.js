@@ -4,6 +4,7 @@
 
 
 
+
 let numbers = [5, 5, 8, 2, 4, 5, 6, 7, 8, 9, 7, 52, 47, 87];
 for(let i = 0; i < numbers.length; i++){
     const number = numbers[i];
